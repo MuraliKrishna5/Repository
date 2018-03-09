@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="99680" started-at="2018-02-13T12:00:49Z" finished-at="2018-02-13T12:02:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="99680" started-at="2018-02-13T12:00:49Z" finished-at="2018-02-13T12:02:29Z">
+      <class name="Testtraining.PayTmLogin">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="beforeMethod" is-config="true" duration-ms="8405" started-at="2018-02-13T17:30:50Z" finished-at="2018-02-13T17:30:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String)[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="LoginTest" duration-ms="3630" started-at="2018-02-13T17:30:59Z" data-provider="Logindata" finished-at="2018-02-13T17:31:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-02-13T17:31:02Z" finished-at="2018-02-13T17:31:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="beforeMethod" is-config="true" duration-ms="7697" started-at="2018-02-13T17:31:02Z" finished-at="2018-02-13T17:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String)[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="LoginTest" duration-ms="3646" started-at="2018-02-13T17:31:10Z" data-provider="Logindata" finished-at="2018-02-13T17:31:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-02-13T17:31:14Z" finished-at="2018-02-13T17:31:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="beforeMethod" is-config="true" duration-ms="7560" started-at="2018-02-13T17:31:14Z" finished-at="2018-02-13T17:31:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String)[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="LoginTest" duration-ms="4389" started-at="2018-02-13T17:31:21Z" data-provider="Logindata" finished-at="2018-02-13T17:31:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="beforeMethod" is-config="true" duration-ms="7657" started-at="2018-02-13T17:31:25Z" finished-at="2018-02-13T17:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-02-13T17:31:25Z" finished-at="2018-02-13T17:31:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String)[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="LoginTest" duration-ms="4700" started-at="2018-02-13T17:31:33Z" data-provider="Logindata" finished-at="2018-02-13T17:31:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-02-13T17:31:38Z" finished-at="2018-02-13T17:31:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="beforeMethod" is-config="true" duration-ms="7885" started-at="2018-02-13T17:31:38Z" finished-at="2018-02-13T17:31:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String)[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="LoginTest" duration-ms="4778" started-at="2018-02-13T17:31:46Z" data-provider="Logindata" finished-at="2018-02-13T17:31:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-02-13T17:31:50Z" finished-at="2018-02-13T17:31:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="beforeMethod" is-config="true" duration-ms="7986" started-at="2018-02-13T17:31:50Z" finished-at="2018-02-13T17:31:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String)[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="LoginTest" duration-ms="3778" started-at="2018-02-13T17:31:58Z" data-provider="Logindata" finished-at="2018-02-13T17:32:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-02-13T17:32:02Z" finished-at="2018-02-13T17:32:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="beforeMethod" is-config="true" duration-ms="8406" started-at="2018-02-13T17:32:02Z" finished-at="2018-02-13T17:32:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String)[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="LoginTest" duration-ms="4112" started-at="2018-02-13T17:32:11Z" data-provider="Logindata" finished-at="2018-02-13T17:32:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-02-13T17:32:15Z" finished-at="2018-02-13T17:32:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="beforeMethod" is-config="true" duration-ms="9112" started-at="2018-02-13T17:32:15Z" finished-at="2018-02-13T17:32:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String)[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="LoginTest" duration-ms="5266" started-at="2018-02-13T17:32:24Z" data-provider="Logindata" finished-at="2018-02-13T17:32:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Testtraining.PayTmLogin@6500df86]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-02-13T17:32:29Z" finished-at="2018-02-13T17:32:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Testtraining.PayTmLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

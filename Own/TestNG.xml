@@ -1,0 +1,13 @@
+<suite name="Test Suite">
+
+ <test name="Any Name">
+
+ <classes>
+ 
+  <class name="Testtraining.NewTest"/>
+
+ </classes>
+
+ </test>
+
+ </suite>
